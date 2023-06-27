@@ -1,0 +1,58 @@
+id: IF174BF83
+ocr_import_info:
+  timestamp: '2023-06-27T16:07:12.579702+00:00'
+  batch_id: batch-da5a
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: PechaJobs
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-06-27 16:43:31.969137+00:00
+last_modified: 2023-06-27 16:43:31.969145+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG25128
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG25128
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: དབུ་མ་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།
+  languages:
+  - bo
+  author: སློབ་དཔོན་ལེགས་ལྡན་འབྱེད།
+statistics:
+  ocr_word_mean_confidence_index: 0.990023579012799
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I1KG25130:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG25130
+      total_pages: 456
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG25130.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9863013196974413
+  I1KG25131:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG25131
+      total_pages: 382
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1KG25131.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9944329739180796
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
